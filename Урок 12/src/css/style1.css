@@ -1,0 +1,192 @@
+body {
+    background-color: #e8e795;
+
+}
+
+.MsoNormal {
+    font-size: 23px;
+    font-weight: 600;
+    color: #4e450e;
+}
+
+.glavnay {
+    background-color: rgb(117, 90, 90);
+    opacity: .7;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.w {
+    display: inline-block;
+}
+
+.reg {
+    display: inline-block;
+    position: relative;
+    left: 1010px;
+    bottom: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.forma input {
+    border: 2px solid rgb(47, 0, 255);
+    height: 25px;
+}
+
+#s {
+    background: #f10606;
+    width: 130px;
+    height: 30px;
+}
+
+.btn1 {
+    display: inline-block;
+    /* Строчно-блочный элемент */
+    background: #f10606;
+    /*  цвет фона */
+    color: #fff;
+    /*  цвет текста */
+    text-align: center;
+    padding: 15px 15px;
+    /* Поля вокруг текста */
+    width: 200px;
+    text-decoration: none;
+    /* Убираем подчёркивание */
+    border-radius: 20px;
+    /* Скругляем уголки */
+    position: relative;
+    top: -20px;
+
+
+}
+
+.kont {
+    color: #fc0505;
+    font-size: 30px;
+    position: relative;
+    top: -15px;
+}
+
+#faul {
+    left: 40px;
+    position: relative;
+
+}
+
+.karta {
+    font-size: 30px;
+    color: rgb(247, 161, 3);
+    text-decoration: none;
+    position: relative;
+    top: -15px;
+}
+
+
+.text {
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+    background: #e8e795;
+    /* Цвет фона */
+    padding: 10px;
+    /* Поля вокруг текста */
+    border: 5px dotted #0069b5;
+    /* Параметры рамки */
+}
+
+h4 {
+    background: #e8e795;
+    /* Цвет фона */
+    padding: 10px;
+    /* Поля вокруг текста */
+    border: 5px dotted #0069b5;
+    /* Параметры рамки */
+    font-size: 30px;
+    font-style: italic;
+}
+
+h5 {
+    background: #e8e795;
+    /* Цвет фона */
+    padding: 10px;
+    /* Поля вокруг текста */
+    border: 5px dotted #0069b5;
+    /* Параметры рамки */
+    font-size: 30px;
+}
+
+#block-5 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h1,
+h2 {
+    background: #2602f5;
+    /* Цвет фона */
+    color: #fff;
+    /* Белый цвет текста */
+    padding: 5px;
+    /* Поля вокруг текста */
+    border: 5px dashed #2602f5;
+    /* Параметры рамки */
+    background-clip: padding-box;
+    /*фон внутри рамки*/
+}
+
+
+
+.btn {
+    background: #5d8f76;
+    /* Цвет фона */
+    color: #fff;
+    /* Цвет текста */
+    padding: 7px 12px;
+    /* Поля */
+    margin-bottom: 1em;
+    width: 100px;
+}
+
+.btn-round {
+    display: inline-block;
+    /* Строчно-блочный элемент */
+    background: #f10606;
+    /*  цвет фона */
+    color: #fff;
+    /*  цвет текста */
+    padding: 5px 5px;
+    /* Поля вокруг текста */
+    text-decoration: none;
+    /* Убираем подчёркивание */
+    border-radius: 20px;
+    /* Скругляем уголки */
+}
+
+.btn-round:hover {
+    border: 3px solid #65994C;
+    /* Параметры рамки */
+    border-radius: 10px;
+    /* Радиус скругления */
+}
+
+.sulk:hover {
+    border: 3px solid #65994C;
+    /* Параметры рамки */
+    border-radius: 10px;
+}
+
+.ogl {
+    margin-top: 55px;
+    font-size: 20px;
+    font-style: italic;
+}
