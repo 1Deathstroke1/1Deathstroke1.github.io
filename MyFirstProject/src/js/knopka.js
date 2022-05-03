@@ -5,12 +5,12 @@ const theme = document.querySelector("#theme-link");
 // Отслеживаем щелчок по кнопке
 btn.addEventListener("click", function () {
     // Если текущий адрес содержит "light-theme.css"
-    if (theme.getAttribute("href") == "/src/css/light-theme.css") {
+    if (theme.getAttribute("href") == "/MyFirstProject/src/css/light-theme.css") {
         // …то переключаемся на "dark-theme.css"
-        theme.href = "/src/css/dark-theme.css";
+        theme.href = "/MyFirstProject/src/css/dark-theme.css";
         // В противном случае… 
     } else {
         // …переключаемся на "light-theme.css"
-        theme.href = "/src/css/light-theme.css";
+        theme.href = "/MyFirstProject/src/css/light-theme.css";
     }
 });
