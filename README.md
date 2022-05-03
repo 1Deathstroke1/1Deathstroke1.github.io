@@ -1,7 +1,7 @@
 # Осташевский Павел
 Первый публичный сайт
 
-<code>![mountains](/Картинки/zZHeM-RiHodL9XntFh6_cLUtdZMMsZK97X7vKTssUfYMLJe50VBTmjdTzwW4rckY4vnRSWtKk7zvqL2Opcqm8Zmg.jpg "Я")</code>
+<code>![mountains](1Deathstroke1.github.io/Картинки/zZHeM-RiHodL9XntFh6_cLUtdZMMsZK97X7vKTssUfYMLJe50VBTmjdTzwW4rckY4vnRSWtKk7zvqL2Opcqm8Zmg.jpg "Я")</code>
 
 [Урок9](https://1Deathstroke1.github.io/lesson9/src/index.html "Макет") - Первый макет сайта при помощи bootstrap
 
