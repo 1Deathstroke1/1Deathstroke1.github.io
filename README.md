@@ -10,5 +10,5 @@
 
 [Урок 12](https://1Deathstroke1.github.io/MyFirstProject/src/index.html "Мини-книга") - Работа с репозиторием GitHub
 
-[Таймер](https://1Deathstroke1.github.io/timer/Задание 1.html "Таймер") - Таймер
+[Таймер](https://1Deathstroke1.github.io/timer/index.html "Таймер") - Таймер
 
