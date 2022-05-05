@@ -14,4 +14,6 @@
 
 [Урок 13](https://1Deathstroke1.github.io/lesson-13/src/index.html "Регистрация") - Форма регистрации
 
+[Практика 1](https://1Deathstroke1.github.io/Praktica-1/src/index.html "Шапка") - Шапка сайта
+
 
