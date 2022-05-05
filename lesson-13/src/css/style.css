@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.z {
+    color: #01b3b3;
+}
+
+.forma {
+    display: inline-block;
+    padding: 0px 30px 30px 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+h1 {
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: #01b3b3;
+    color: white;
+    padding: 8px 10px;
+    margin-bottom: 34px;
+
+}
+
+.btn {
+    display: inline-block;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: #01b3b3;
+    color: white;
+    padding: 16px 57px;
+    margin-top: 14px;
+}
+
+input {
+    width: 260px;
+    margin-bottom: 20px;
+}
