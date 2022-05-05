@@ -16,6 +16,6 @@
 
 [Практика 1](https://1Deathstroke1.github.io/Praktica-1/src/index.html "Шапка") - Шапка сайта
 
-[Урок 14](https://1Deathstroke1.github.io/Lesson-14/index.html "Шрифты" - Добавление разных шрифтов
+[Урок 14](https://1Deathstroke1.github.io/Lesson-14/index.html "Шрифты") - Добавление разных шрифтов
 
 
