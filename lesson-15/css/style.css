@@ -22,7 +22,7 @@ h2 {
 }
 
 .image-one {
-	background: url(../img/1.jpg) center no-repeat;
+	background: url(../lesson-15/img/1.jpg) center no-repeat;
 	background-size: cover;
 }
 
@@ -44,17 +44,17 @@ h2 {
 }
 
 .image-two {
-	background: url(../img/2.jpg) center no-repeat;
+	background: url(../lesson-15/img/2.jpg) center no-repeat;
 	background-size: cover;
 }
 
 .image-three {
-	background: url(../img/3.jpg) center no-repeat;
+	background: url(../lesson-15/img/3.jpg) center no-repeat;
 	background-size: cover;
 }
 
 .image-four {
-	background: url(../img/4.jpg) center no-repeat;
+	background: url(../lesson-15/img/4.jpg) center no-repeat;
 	background-size: cover;
 }
 
