@@ -18,4 +18,6 @@
 
 [Урок 14](https://1Deathstroke1.github.io/Lesson-14/index.html "Шрифты") - Добавление разных шрифтов
 
+[Практика](https://1Deathstroke1.github.io/src/index.html)
+
 
