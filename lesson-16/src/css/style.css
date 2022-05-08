@@ -1,0 +1,17 @@
+body {
+    background: #ffffff url(../img/фон2.jpg) center center no-repeat;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30%;
+    color: rgb(255, 238, 0);
+}
+
+.fotorama {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
