@@ -22,4 +22,6 @@
 
 [Урок 15](https://1Deathstroke1.github.io/lesson-15/src/index.html) - Кнопки
 
+[Урок 16](https://1Deathstroke1.github.io/lesson-16/src/index.html) - Слайдер fotorama
+
 
