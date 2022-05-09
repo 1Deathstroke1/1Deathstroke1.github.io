@@ -24,4 +24,8 @@
 
 [Урок 16](https://1Deathstroke1.github.io/lesson-16/src/index.html) - Слайдер fotorama
 
+[Урок 17](https://1Deathstroke1.github.io/Knopka-DeliteFile/src/index.htm) - Кнопка удалить файл
+
+
+
 
