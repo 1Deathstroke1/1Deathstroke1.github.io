@@ -14,6 +14,16 @@ p {
 h1 {
     margin-bottom: 2rem;
 }
+.btn-toggle:hover {
+    width: 30%;
+    color: red;
+}
+
+.sulka:hover {
+    font-size: 15px;
+    color: red;
+}
+
 
 @media(max-width:991px) {
     .image {
