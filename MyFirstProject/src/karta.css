@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: rgba(231, 183, 124, 0.438);
 }
 
 h1 {
@@ -33,7 +34,11 @@ h1 {
     border-radius: 20px;
     /* Скругляем уголки */
     margin-bottom: 50px;
+}
 
+.btn:hover {
+    width: 200px;
+    color: wheat;
 }
 
 .karta {
