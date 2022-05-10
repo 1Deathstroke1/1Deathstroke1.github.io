@@ -26,7 +26,7 @@
 
 [Урок 17](https://1Deathstroke1.github.io/Knopka-DeliteFile/src/index.htm) - Кнопка удалить файл
 
-[Урок 17.1](https://https://1deathstroke1.github.io/Accordion/src/index.html) - Простой аккардион
+[Урок 18.1](https://1deathstroke1.github.io/Accordion/src/index.html) - Простой аккардион
 
 
 
