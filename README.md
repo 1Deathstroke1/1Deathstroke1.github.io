@@ -28,6 +28,8 @@
 
 [Урок 18.1](https://1deathstroke1.github.io/Accordion/src/index.html) - Простой аккардион
 
+[Урок 18.2](https://1deathstroke1.github.io/registration-form/src/index.html) - Форма регистрации(таблы)
+
 
 
 
