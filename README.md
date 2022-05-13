@@ -18,7 +18,7 @@
 
 [Урок 14](https://1Deathstroke1.github.io/Lesson-14/index.html "Шрифты") - Добавление разных шрифтов
 
-[Практика. Часть 7.](https://1Deathstroke1.github.io/src/index.html) - Сайт
+[Практика. Часть 8.](https://1Deathstroke1.github.io/src/index.html) - Сайт
 
 [Урок 15](https://1Deathstroke1.github.io/lesson-15/src/index.html) - Кнопки
 
