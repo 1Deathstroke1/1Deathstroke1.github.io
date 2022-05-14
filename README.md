@@ -32,6 +32,8 @@
 
 [Урок 20](https://1deathstroke1.github.io/video-fon/src/index.html) - Видео фон
 
+[Урок 22](https://1deathstroke1.github.io/karta/index.html) - Карта с контактами
+
 
 
 
