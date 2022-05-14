@@ -1,0 +1,103 @@
+.contacts h2 {
+    margin: 0;
+    padding-top: 65px;
+    padding-bottom: 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.contacts p {
+    margin: 0;
+    padding-bottom: 40px;
+    font-size: 17px;
+    color: white;
+    font-weight: none;
+}
+
+.contacts a {
+    padding-bottom: 40px;
+    font-size: 17px;
+    margin: 0;
+    color: white;
+
+}
+
+
+.contacts {
+    position: absolute;
+    background: red;
+    width: 380px;
+    height: 431px;
+    text-align: center;
+    z-index: 1;
+}
+
+.media {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    margin: 0;
+    font-weight: 900;
+}
+
+.sert {
+    padding-top: 25px;
+    margin: 0;
+    vertical-align: middle;
+    text-align: center;
+    color: #666666;
+}
+
+.number {
+    padding-top: 10px;
+    margin: 0;
+    font-size: 22px;
+}
+
+.adres {
+    margin: 0;
+    font-size: 14px;
+}
+
+@media(max-width:920px) {
+    .contacts {
+        width: 40%;
+        height: 431px;
+    }
+
+}
+
+@media(max-width:444px) {
+    .contacts h2 {
+        padding-top: 20px;
+        padding-bottom: 30px;
+        font-size: 30px;
+    }
+
+    .contacts p {
+        padding-bottom: 30px;
+        font-size: 17px;
+    }
+
+    .contacts a {
+        padding-bottom: 20px;
+        font-size: 17px;
+    }
+}
+
+@media(max-width:444px) {
+    .contacts h2 {
+        font-size: 20px;
+    }
+
+    .contacts p {
+        font-size: 12px;
+    }
+
+    .contacts a {
+        font-size: 12px;
+    }
+
+}
