@@ -1,0 +1,191 @@
+/*Секция Спасибо*/
+.thanks {
+    background: url(../img/main-fon.jpg) center no-repeat;
+    background-size: cover;
+    height: 680px;
+}
+
+.blackout {
+    background-color: rgba(0, 0, 0, 0.671);
+    height: 680px;
+}
+
+.thanks-main-header {
+    height: 86px;
+    background: #000000ea;
+}
+
+.logo {
+    position: relative;
+    top: -22%;
+
+}
+
+.vrr {
+    display: inline-block;
+    position: relative;
+    right: 10%;
+    bottom: 12px;
+    color: black;
+    margin: 0;
+}
+
+.header-text {
+    padding-top: 15px;
+    margin: 0;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+
+}
+
+.header-number {
+    padding-top: 24px;
+    text-align: end;
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+h1 {
+    text-align: center;
+    font-size: 39px;
+    color: white;
+}
+
+.thanks-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-top: 5%;
+}
+
+.thanks-sybtitle {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.button {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 17px 41px;
+    background-color: #94ca2d;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%);
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media (max-width:767px) {
+    h1 {
+        margin-top: 40px;
+    }
+
+    .thanks-main-header {
+        height: 130px;
+
+    }
+
+    .header-number {
+        padding: 0;
+        text-align: center;
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        font-weight: 900;
+    }
+}
+
+@media (max-width:539px) {
+    .header-text {
+        padding-top: 15px;
+        font-size: 14px;
+    }
+
+    .thanks-main-header {
+        height: 110px;
+
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+}
+
+.thanks-sybtitle {
+    font-size: 16px;
+}
+
+.button {
+    font-size: 16px;
+    font-weight: 900;
+    padding: 12px 35px;
+    margin-bottom: 20px;
+}
+
+@media (max-width:490px) {
+    .vrr {
+        top: -10px;
+        right: 13%;
+        bottom: 12px;
+    }
+}
+
+@media (max-width:400px) {
+    .logo {
+        position: relative;
+        top: -22%;
+        width: 20%;
+        height: 50%;
+    }
+
+    .vrr {
+        top: -10px;
+        right: 13%;
+        bottom: 12px;
+        font-size: 14px;
+    }
+
+    .header-text {
+        padding-top: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:333px) {
+    .logo {
+        position: relative;
+        top: -22%;
+        width: 15%;
+        height: 40%;
+    }
+
+    .header-text {
+        position: relative;
+        right: 23px;
+    }
+
+    .vrr {
+        top: -10px;
+        right: 10%;
+        bottom: 12px;
+        font-size: 10px;
+    }
+
+}

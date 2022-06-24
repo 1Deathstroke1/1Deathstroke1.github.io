@@ -1,0 +1,116 @@
+/* Init formats */
+#divbox a{
+	margin: 0;
+	padding:0;
+}
+#divbox{
+	background:  #000000 ;
+	opacity: .5;
+	filter:alpha(opacity=50);
+	margin: 0;
+	padding: 0;
+	
+}
+#divbox_data{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#divbox_ajax{
+	display: none; 
+	width: 400px;
+}
+
+
+/* Skin default*/
+.divbox_default{ margin: 0; padding: 0;}
+
+.divbox_default{
+	background: #fff url(photos/loader.gif) no-repeat center center;
+	border: 10px solid #eee;
+	
+}
+.divbox_default.white{
+	background: none;
+	background-color: white;
+}
+
+.divbox_default .closed{
+	position: absolute;
+	z-index: 1006;
+	background:url(photos/close.png) no-repeat center center;
+	width: 24px;
+	height: 24px;
+	right: -20px;
+	top: -20px;
+	cursor: pointer;
+	
+}
+.divbox_default .prev,.divbox_default .next,.divbox_default .number{
+	position: absolute;
+	z-index: 1006;
+	width: 30px;
+	height: 24px;
+	cursor: pointer;
+	
+}
+.divbox_default .prev,.divbox_default .prevDisabled{
+	background:url(left.png) no-repeat top center;
+	left: 0;
+}
+
+.divbox_default .prevDisabled{
+	background:url(leftDisabled.png) no-repeat top center;
+}
+.divbox_default .next,.divbox_default .nextDisabled{
+	background: url(right.png) no-repeat top right;
+	right: 2px;
+}
+.divbox_default .number{
+	right: 30px;
+	width: 20px;
+}
+.divbox_default .nextDisabled{
+	background:url(rightDisabled.png) no-repeat top right;
+}
+
+
+.divbox_default .caption{
+	display: none;
+	background: #ccc;
+	opacity: .5;
+	filter:alpha(opacity=50);
+	color: #000;
+	padding-left: 30px;
+	padding-right: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+}
+.divbox_default .zoom{
+	cursor: url(zoomin.cur), default;
+}
+
+
+/* IE6 FixPNG */
+*html .divbox_default .closed{
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=photos/close.png);
+}
+*html .divbox_default .prev{
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/left.png);
+}
+*html .divbox_default .prevDisabled{
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/leftDisabled.png);
+}
+*html .divbox_default .next{
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/right.png);
+}
+*html .divbox_default .nextDisabled{
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/rightDisabled.png);
+}
